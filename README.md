@@ -36,4 +36,4 @@ and headings within the `<article>` element. 
 
 ### Fonts
 
-The template uses the font **"Myriad Pro"** and  **"Century Gothic"**. 
+The template uses the font **"Myriad Pro"** and  **"Century Gothic"**. "# third.github.io" 
